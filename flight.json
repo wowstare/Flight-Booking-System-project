@@ -1,0 +1,28 @@
+[{
+    "flight_number": "201",
+    "origin": "Yemen",
+    "destination": "New York",
+    "departure": "2025-06-15T08:30:00",
+    "price": 1200
+},
+{
+    "flight_number": "105",
+    "origin": "London",
+    "destination": "Paris",
+    "departure": "2025-06-16T10:00:00",
+    "price": 150
+},
+{
+    "flight_number": "123",
+    "origin": "Paris",
+    "destination": "London",
+    "departure": "2025-06-16T14:00:00",
+    "price": 140
+},
+{
+    "flight_number": "56",
+    "origin": "Dubai",
+    "destination": "Frankfurt",
+    "departure": "2025-06-15T12:00:00",
+    "price": 800
+}]

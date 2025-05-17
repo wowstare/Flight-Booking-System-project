@@ -1,0 +1,28 @@
+[
+    {
+        "BookingID": "1",
+        "flightID": "F001",
+        "CustomerName": "Narges",
+        "BookingDate": "2025-10-01 T10:00:00"
+
+    }
+    ,
+    {
+        "BookingID": "2",
+        "flightID": "F002",
+        "CustomerName": "Ali",
+        "BookingDate": "2025-10-02 T11:00:00"
+    },
+    {
+        "BookingID": "3",
+        "flightID": "F003",
+        "CustomerName": "Sara",
+        "BookingDate": "2025-10-03 T12:00:00"
+    },
+    {
+        "BookingID": "4",
+        "flightID": "F004",
+        "CustomerName": "Reza",
+        "BookingDate": "2025-10-04 T13:00:00"
+    }
+]
